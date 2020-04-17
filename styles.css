@@ -7,14 +7,14 @@ body {
 }
 
 html {
-  font: 1em/1.5 "Lato", sans-serif;
+  font: 1em/2.5 "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizelegibility;
 }
 
 body {
-  font-size: 1.3em;
+  font-size: 1.5em;
 }
 
 
@@ -30,7 +30,7 @@ header h1, header h2 {
 }
 header h2 {
   text-transform: uppercase;
-  margin-top: -.5em;
+  margin-top: +.4em;
 }
 header hgroup {
   -webkit-transform: translate(-50%, -50%);
@@ -61,8 +61,8 @@ header hgroup {
   width:100%
 }
 .site nav a{
-  padding:10px 30px;
-  font-size:1.3em;
+  padding:50px 30px;
+  font-size:3.3em;
   display:inline-block
 }
 .site nav a:hover{
@@ -78,17 +78,17 @@ footer {
 .logotipo {
  width: 100%;
  text-align: center;
- font-size: 0.7em;
+ font-size: 1.7em;
 }
 .logotipo img {
- width: 20%;
+ width: 70%;
  vertical-align: middle;
 }
 
 .logotipo1 {
   width: 100%;
   text-align: center;
-  font-size: 0.7em;
+  font-size: 3.7em;
  }
  .logotipo1 img {
   width: 20%;
@@ -96,11 +96,11 @@ footer {
  }
 
 .redes {
- width: 100%;
+ width: 1%;
  text-align: center;
 }
 .redes img {
- width: 18%;
+ width: 88%;
 }
 .redes ul li {
  text-transform: uppercase;
